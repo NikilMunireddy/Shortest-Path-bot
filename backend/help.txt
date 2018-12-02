@@ -1,0 +1,7 @@
+The values given by the users are stored in 'd.txt' file which is created during run time.
+
+or create d.txt file and enter the initial and final postion in the form of x0,y0,xf,yf
+then run
+     python3 bot.py
+     python3 client.py
+
